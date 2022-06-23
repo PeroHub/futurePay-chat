@@ -1,0 +1,23 @@
+{
+  "name": "FuturePay Chat",
+  "short_name": "FuturePay Chat",
+  "theme_color": "#EAF2F8",
+  "background_color": "#EAF2F8",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+   
+    {
+      "src": "images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+  
+}
